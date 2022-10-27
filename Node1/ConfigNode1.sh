@@ -1,0 +1,1 @@
+besu --config-file=../configuration.toml --bootnodes=enode://438c2d95cd2e98da3706ee98ea4452189a705d0de6ad9e8a8b53ea060feff640a26cb0bc628400148c74f21c87e6c7f01861eb237d2cf8f9cf8d52ae17f81a1f@127.0.0.1:30303 --rpc-http-port=8546 --p2p-port=30304
